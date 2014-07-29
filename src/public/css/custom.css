@@ -77,3 +77,15 @@ li.vertical {
 .main .content .steps {
 	margin-top:15px;
 }
+
+li.vertical button:last-child {
+	margin-left:5px;
+}
+
+@media (max-width: 767px) {
+  li.vertical button {
+  	width:100%;
+  	margin:0px !important;
+  }
+
+}

@@ -57,7 +57,6 @@
                         </ul>
                         <ul class="nav navbar-nav navbar-right">
                             <li class="vertical"><button type="button" class="btn btn-danger">Emergency Contact</button></li>
-                            <li class="divider">&nbsp;</li>
                             <li class="vertical"><button type="button" class="btn btn-primary" data-toggle="modal" data-target="#loginModal">Client Portal</button></li>
                         </ul>                        
                     </div><!--/.nav-collapse -->
